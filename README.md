@@ -276,3 +276,6 @@ Peak concurrency yang dapat ditangani oleh server dengan spawn rate sebanyak 500
 
 ## VI. Conclusion & Recommendation
 Dengan budget sebesar $65 USD/bulan sudah dapat deploy backend berupa API dan frontend webpage dengan styling ringan dengan menggunakan 1 Database, dan 3 VM dengan spesifikasi 2 VM untuk app worker dan 1 VM untuk load balancer. Selain itu, berdasarkan report dari locust, didapatkan bahwa semakin tinggi user spawn rate/s, maka jumlah cenderung meningkat secara cukup signifikan. Namun demikian, perlu diingat bahwa peak concurrency yang terlalu tinggi dapat mengakibatkan failure dalam koneksi server.
+
+## VII. Revision
+<a href="https://youtu.be/DsLjeNgH8YQ">Click Here</a>
